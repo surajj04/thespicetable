@@ -1,0 +1,33 @@
+@font-face {
+    font-family: logoFont;
+    src: url("/public/font/logo-font.ttf");
+}
+
+body {
+    background-color: #030712;
+}
+
+.bg-img {
+    background: url("/public/img/background_img.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(70%);
+}
+@media only screen and (max-width: 600px) {
+    .bg-img {
+        background: url("/public/img/background_img.jpg");
+        height:400px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: brightness(70%);
+    }
+}
+
+
+.title-font {
+    font-family: logoFont;
+}

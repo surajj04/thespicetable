@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Admin",
+        "phoneNo":9367728292,
+        "email":"admin@mail.com",
+        "pass":"root123"
+    },
+    {
+        "name":"suraj jadhav",
+        "phoneNo":9367728292,
+        "email":"suraj@mail.com",
+        "pass":"suraj123"
+    }
+]

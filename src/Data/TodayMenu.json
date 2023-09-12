@@ -1,0 +1,186 @@
+[
+    {
+        "category": "Appetizers",
+        "dish": "Samosa",
+        "desc": "Crispy pastry filled with spiced potatoes and peas, served with tamarind chutney.",
+        "logo": "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800",
+        "price": 39,
+        "quantity":1
+    },
+    {
+        "category": "Appetizers",
+        "dish": "Pakodas",
+        "desc": "Assorted fritters made with chickpea flour and a choice of vegetables like onions, spinach, or eggplant, served with mint chutney.",
+        "logo": "https://ministryofcurry.com/wp-content/uploads/2021/10/Onion-Pakodas-2.jpg",
+        "price": 39,
+        "quantity":1
+    },
+    {
+        "category": "Appetizers",
+        "dish": "Chaat",
+        "desc": "A delightful mix of potatoes, chickpeas, crispy puris, and chutneys, garnished with yogurt and sev.",
+        "logo":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Delhi_Style_Matar_Chaat_Matra_Recipe_Spicy__Tangy_Dry_Green_Peas_Curry_Curry_Recipe.jpg",
+        "price": 99,
+        "quantity":1
+    },
+    {
+        "category": "",
+        "dish": "Tandoori Chicken Tikka",
+        "desc": "Tender pieces of marinated chicken cooked in a clay oven, infused with traditional Indian spices.",
+        "logo":"https://www.chefkunalkapur.com/wp-content/uploads/2021/03/tandoori-chicken-tikka-scaled.jpeg?v=1618463271",
+        "price": 39,
+        "quantity":1
+    },
+    {
+        "category": "Soups and Salads",
+        "dish": "Mulligatawny Soup",
+        "desc": "A fragrant lentil soup with vegetables and a hint of coconut milk.",
+        "logo":"https://www.simplyrecipes.com/thmb/gsbFOv1Kup_Pn-4GvBNDfflC9Do=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__09__mulligatawny-soup-horiz-a-1500-bb866c4e3ef145ad8d8f30298b53fe5a.jpg",
+        "price": 59,
+        "quantity":1
+    },
+    {
+        "category": "Soups and Salads",
+        "dish": "Kachumber Salad",
+        "desc": "Fresh cucumber, tomatoes, onions, and coriander tossed in tangy lemon dressing.",
+        "logo":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Jyothi_Rajesh/Kachumber_Salad__Cucumber_Salad.jpg",
+        "price": 49,
+        "quantity":1
+    },
+    {
+        "category": "Vegetarian Main Course",
+        "dish": "Paneer Butter Masala",
+        "desc": "Soft cubes of paneer cooked in a rich and creamy tomato-based gravy, served with naan or rice.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-butter-masala-recipe-2.jpg",
+        "price": 129,
+        "quantity":1
+    },
+    {
+        "category": "Vegetarian Main Course",
+        "dish": "Dal Makhani",
+        "desc": "Black lentils and kidney beans simmered overnight and finished with cream and butter, best enjoyed with naan or jeera rice.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
+        "price": 119,
+        "quantity":1
+    },
+    {
+        "category": "Vegetarian Main Course",
+        "dish": "Palak Paneer",
+        "desc": "Cottage cheese cubes cooked in a vibrant spinach and fenugreek gravy, served with garlic naan or steamed rice.",
+        "logo":"https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+        "price": 139,
+        "quantity":1
+    },
+    {
+        "category": "Vegetarian Main Course",
+        "dish": "Chana Masala",
+        "desc": "Chickpeas cooked in a flavorful onion-tomato gravy, garnished with fresh cilantro, and paired with steamed basmati rice.",
+        "logo":"https://www.ticklingpalates.com/wp-content/uploads/2022/07/chana-masala-recipe-500x500.jpg",
+        "price": 119,
+        "quantity":1
+    },
+    {
+        "category": "Non-Vegetarian Main Course",
+        "dish": "Butter Chicken",
+        "desc": "Tandoor-cooked chicken in a luscious tomato and cashew nut gravy, served with butter naan or jeera rice.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/04/butter-chicken-recipe.jpg",
+        "price": 159,
+        "quantity":1
+    },
+    {
+        "category": "Non-Vegetarian Main Course",
+        "dish": "Rogan Josh",
+        "desc": "Aromatic lamb curry cooked with a blend of traditional spices, best enjoyed with garlic naan or saffron-infused rice.",
+        "logo":"https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
+        "price": 189,
+        "quantity":1
+    },
+    {
+        "category": "Non-Vegetarian Main Course",
+        "dish": "Fish Curry",
+        "desc": "Seasonal fish cooked in a tangy coconut-based curry, served with steamed rice or appam.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe.jpg",
+        "price": 169,
+        "quantity":1
+    },
+    {
+        "category": "Biryani Specialties",
+        "dish": "Vegetable Biryani",
+        "desc": "Fragrant basmati rice layered with saffron-infused vegetables, nuts, and spices, served with raita.",
+        "logo":"https://sandhyahariharan.co.uk/wp-content/uploads/2015/12/vegetable-biryani-1-of-3.jpg",
+        "price": 149,
+        "quantity":1
+    },
+    {
+        "category": "Biryani Specialties",
+        "dish": "Chicken Biryani",
+        "desc": "Succulent pieces of chicken marinated in spices, layered with aromatic basmati rice, and served with raita.",
+        "logo":"https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+        "price": 169,
+        "quantity":1
+    },
+    {
+        "category": "Biryani Specialties",
+        "dish": "Hyderabadi Dum Biryani",
+        "desc": "Authentic spiced lamb or chicken cooked in layers with long-grain basmati rice, garnished with fried onions and served with raita.",
+        "logo":"https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+        "price": 189,
+        "quantity":1
+    },
+    {
+        "category": "Accompaniments",
+        "dish": "Garlic Naan",
+        "desc": "Soft, oven-baked bread with a hint of garlic and butter.",
+        "logo":"https://cafedelites.com/wp-content/uploads/2020/06/Garlic-Naan-Recipe-IMAGE-27-500x375.jpg",
+        "price": 49,
+        "quantity":1
+    },
+    {
+        "category": "Accompaniments",
+        "dish": "Butter Naan",
+        "desc": "Leavened flatbread brushed with butter, perfect for savoring with rich gravies.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/butter-naan.jpg",
+        "price": 39,
+        "quantity":1
+    },
+    {
+        "category": "Accompaniments",
+        "dish": "Raita",
+        "desc": "Refreshing yogurt with cucumber, tomatoes, and mint, served as a cooling side dish.",
+        "logo":"https://sandhyahariharan.co.uk/wp-content/uploads/2020/06/Boondi-Raita-1-of-4.jpg",
+        "price": 19,
+        "quantity":1
+    },
+    {
+        "category": "Desserts",
+        "dish": "Gulab Jamun",
+        "desc": "Delicate milk dumplings soaked in rose-scented syrup, served warm.",
+        "logo":"https://images.news18.com/ibnkhabar/uploads/2020/12/gulab-jamun.jpg",
+        "price": 59,
+        "quantity":1
+    },
+    {
+        "category": "Desserts",
+        "dish": "Rasmalai",
+        "desc": "Soft cottage cheese dumplings in sweetened, thickened milk, garnished with pistachios.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/rasmalai-recipe.jpg",
+        "price": 69,
+        "quantity":1
+    },
+    {
+        "category": "Desserts",
+        "dish": "Kheer",
+        "desc": "Traditional Indian rice pudding flavored with cardamom and garnished with almonds and raisins.",
+        "logo":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/kheer-recipe.jpg",
+        "price": 49,
+        "quantity":1
+    },
+    {
+        "category": "Desserts",
+        "dish": "Mango Lassi",
+        "desc": "Refreshing yogurt-based mango smoothie.",
+        "logo":"https://www.whiskaffair.com/wp-content/uploads/2020/05/Mango-Lassi-2-3.jpg",
+        "price": 49,
+        "quantity":1
+    }
+]
